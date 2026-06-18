@@ -92,7 +92,6 @@ const tableGuests = {
     'Zhayana Arley Salamatin',
     'Cathline Joy Arias',
     'Josephine Amirose Ambray',
-    'Photo and Video Staff',
   ],
   6: [
     'Jean Cezar',
@@ -140,7 +139,7 @@ const tableGuests = {
     'Analiza Soliven',
     'Daisy Zulueta',
     'Marites Bechayda',
-    'Richard Gumabo',
+    'Stephen Soliven',
   ],
   10: [
     'Lilibeth Simon',
@@ -171,9 +170,9 @@ const tableGuests = {
     'Severino Bautista Jr.',
     'Nestor Rocamora',
     'Enrico Susi',
-    'Stephen Soliven',
+    'Richard Gumabo',
     'Photo & Video Staff',
-    'Lights and Sound Staff',
+    'Photo and Video Staff',
     'Lights and Sound Staff',
     'Lights and Sound Staff',
   ],
