@@ -44,7 +44,6 @@ const tableGuests = {
     'John Paulo Cagande',
     'Rizza Cagande',
     'Jheriza Cagande',
-    'Emcee',
   ],
   2: [
     'Helen Acedo',
@@ -92,6 +91,7 @@ const tableGuests = {
     'Zhayana Arley Salamatin',
     'Cathline Joy Arias',
     'Josephine Amirose Ambray',
+    'Emcee',
   ],
   6: [
     'Jean Cezar',
@@ -173,6 +173,7 @@ const tableGuests = {
     'Richard Gumabo',
     'Photo & Video Staff',
     'Photo and Video Staff',
+    'Lights and Sound Staff',
     'Lights and Sound Staff',
     'Lights and Sound Staff',
   ],
