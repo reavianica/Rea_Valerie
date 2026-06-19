@@ -151,7 +151,7 @@ const tableGuests = {
     'Inis Bañola',
     'Nila Garabiles',
     'Jaymar Cruz',
-    'Peachy Cagandahan',
+    'Malou Navio',
   ],
   11: [
     'Jenny Lyn Aduviso',
@@ -171,8 +171,8 @@ const tableGuests = {
     'Nestor Rocamora',
     'Enrico Susi',
     'Richard Gumabo',
+    'Mary Grace Dacapias',
     'Photo & Video Staff',
-    'Photo and Video Staff',
     'Lights and Sound Staff',
     'Lights and Sound Staff',
     'Lights and Sound Staff',
@@ -268,7 +268,7 @@ const billNames = [
   'Helen Acedo',
   'Susan Espiritu',
   'Nila Garabiles',
-  'Peachy Cagandahan',
+  'Malou Navio',
   'Jaymar Cruz',
   'Nestor Rocamora',
   'Florian Guanio',
@@ -458,7 +458,7 @@ const rsvpData = [
   { group: 'Individual', seats: 1, members: ['Paul Aeron Guillermo'] },
   // NINANG/NINONG SECTION
   { group: 'Individual', seats: 1, members: ['Nila Garabiles'] },
-  { group: 'Individual', seats: 1, members: ['Peachy Cagandahan'] },
+  { group: 'Individual', seats: 1, members: ['Malou Navio'] },
   { group: 'Individual', seats: 1, members: ['Jaymar Cruz'] },
   { group: 'Individual', seats: 1, members: ['Nestor Rocamora'] },
   // OFFICEMATES SECTION
@@ -475,6 +475,7 @@ const rsvpData = [
   { group: 'Individual', seats: 1, members: ['Tee Jay Cabrera'] },
   { group: 'Individual', seats: 1, members: ['Anthony Ayubo'] },
   { group: 'Individual', seats: 1, members: ['Enrico Susi'] },
+  { group: 'Individual', seats: 1, members: ['Mary Grace Dacapias'] },
   // VAL'S FRIEND (DIVINE) SECTION
   { group: "Val's Friend — Divine", seats: 1, members: ['Anissa Louise Dhaena Cristi'] },
   { group: "Val's Friend — Divine", seats: 1, members: ['Charles Vhincent Salvador'] },
